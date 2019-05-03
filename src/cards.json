@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Ant Man",
+        "image": "images/AntMan.jpeg",
+        "count": "0"
+    },
+    {
+        "id": 2,
+        "name": "Black Panther",
+        "image": "images/BlackPanther.jpg",
+        "count": "0"
+    },
+    {
+        "id": 3,
+        "name": "Black Widow",
+        "image": "images/BlackWidow.jpg",
+        "count": "0"
+    },
+    {
+        "id": 4,
+        "name": "Captain America",
+        "image": "images/CaptainAmerica.jpg",
+        "count": "0"
+    },
+    {
+        "id": 5,
+        "name": "Captain Marvel",
+        "image": "images/CaptainMarvel.jpg",
+        "count": "0"
+    },
+    {
+        "id": 6,
+        "name": "Doctor Strange",
+        "image": "images/DoctorStrange.jpg",
+        "count": "0"
+    },
+    {
+        "id": 7,
+        "name": "Hawkeye",
+        "image": "images/Hawkeye.jpg",
+        "count": "0"
+    },
+    {
+        "id": 8,
+        "name": "Incredible Hulk",
+        "image": "images/IncredibleHulk.jpg",
+        "count": "0"
+    },
+    {
+        "id": 9,
+        "name": "Iron Man",
+        "image": "images/IronMan.jpg",
+        "count": "0"
+    },
+    {
+        "id": 10,
+        "name": "Scarlet Witch",
+        "image": "images/ScarletWitch.jpg",
+        "count": "0"
+    },
+    {
+        "id": 11,
+        "name": "Spider-Man",
+        "image": "images/Spiderman.jpg",
+        "count": "0"
+    },
+    {
+        "id": 12,
+        "name": "Thor",
+        "image": "images/Thor.jpg",
+        "count": "0"
+    }
+]
