@@ -1,9 +1,9 @@
-## Avenger's Click Game
+# Avenger's Click Game
 
-# Goal:
+## Goal:
 To build a React app click game where the images shuffle every time a user clicks on one. The goal is for the user to click all the images exactly once, without clicking an image twice. There are 12 total images.
 
-# Challenges:
+## Challenges:
 Learning how React works as I was building the app was a challenge. 
 
   Some future goals will be:
